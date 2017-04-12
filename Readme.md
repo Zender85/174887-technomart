@@ -1,7 +1,7 @@
-# Личный проект «Техномарт»
+﻿# Личный проект «Техномарт»
 
 * Студент: [Andrew Borbosov](https://up.htmlacademy.ru/htmlcss/17/user/174887).
-* Наставник: `Неизвестно`.
+* Наставник: [Andrew Borbosov](https://up.htmlacademy.ru/htmlcss/17/user/174887).
 
 ---
 
